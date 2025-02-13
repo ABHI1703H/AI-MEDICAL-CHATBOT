@@ -1,0 +1,19 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "123",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "ABHI",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "TOMAR",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
